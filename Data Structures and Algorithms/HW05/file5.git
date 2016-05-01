@@ -1,0 +1,20 @@
+var count
+count = 3
+loop count
+begin
+var a
+a = 2
+loop a
+begin
+var count
+count = 5
+loop count
+begin
+print count
+count = count - 1
+end
+a = a - 1
+end
+print count
+count = count - 1
+end

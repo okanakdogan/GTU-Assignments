@@ -1,0 +1,8 @@
+male,6,180,12,<=30,high,no,fair
+male,5.92,190,11,<=30,high,no,excellent
+male,5.58,170,12,31-40,high,no,fair
+male,5.92,165,10,>40,medium,no,fair
+female,5,100,6,>40,low,yes,fair
+female,5.5,150,8,>40,low,yes,excellent
+female,5.42,130,7,31-40,low,yes,excellent
+female,5.75,150,9,<=30,medium,no,fair

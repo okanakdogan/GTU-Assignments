@@ -1,0 +1,11 @@
+var fact
+var k
+fact = 1
+k = 5
+loop k
+begin
+fact = fact * k
+print fact
+print k
+k = k - 1
+end
